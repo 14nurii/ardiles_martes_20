@@ -1,0 +1,23 @@
+h1{
+    color:darkred;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color:darkred;
+    font-size:28;
+}
+p{
+    color:red;
+    font-size: 20;
+    font-family: cursive;
+}
+button {
+    size: 20px;
+    color:rgb(209, 79, 79)
+
+}
+body {
+    background-color: grey;
+}
+
